@@ -39,6 +39,7 @@ This is an indexed overlay board to allow indexed 180 deg roations of patients d
           - https://www.mcmaster.com/9266K81/
           - to be glued between rotating surfaces to reduce friction
           - need 1x
+
 ---extra---
 
 Silicone Adhesive e.g. https://www.amazon.com/Permatex-80050-Silicone-Adhesive-Sealant/dp/B0002UEPVI
