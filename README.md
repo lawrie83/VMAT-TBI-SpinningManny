@@ -3,6 +3,7 @@ This is an indexed overlay board to allow indexed 180 deg roations of patients d
 ----parts list----
 
 ---Custom carbon fiber parts---
+
 1 Custom design carbon fiber board with wall thickness 1.5mm and foam core.
 2 custom drilled and cut 1/8" thick Carbon fiber plate (Raw material McMaster-carr part 9266K14)
 
