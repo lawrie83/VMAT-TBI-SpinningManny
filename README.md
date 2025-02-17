@@ -18,6 +18,8 @@ This is an indexed overlay board to allow indexed 180 deg roations of patients d
 
 6 Feet parts (need 12-16x)
 
+11 Optional vacbag indexer (hollow 3D printed bar similar to Bionix bar)
+
 ---Other McMaster-Carr parts---
 
 7 - 90611A121 - Screw-Mount Nut 
